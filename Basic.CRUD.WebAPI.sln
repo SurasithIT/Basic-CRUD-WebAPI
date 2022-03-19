@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic.CRUD.WebAPI", "Basic.CRUD.WebAPI\Basic.CRUD.WebAPI.csproj", "{65E06A3A-9548-4D2B-A71C-24A7FB5B9457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic.CRUD.Entities", "Basic.CRUD.Entities\Basic.CRUD.Entities.csproj", "{97D7B206-C0E2-4902-BD59-B5B1AD25A04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E06A3A-9548-4D2B-A71C-24A7FB5B9457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E06A3A-9548-4D2B-A71C-24A7FB5B9457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E06A3A-9548-4D2B-A71C-24A7FB5B9457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E06A3A-9548-4D2B-A71C-24A7FB5B9457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D7B206-C0E2-4902-BD59-B5B1AD25A04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D7B206-C0E2-4902-BD59-B5B1AD25A04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D7B206-C0E2-4902-BD59-B5B1AD25A04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D7B206-C0E2-4902-BD59-B5B1AD25A04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
